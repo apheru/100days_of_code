@@ -1,0 +1,17 @@
+print("Vamos se conhecer melhor!")
+
+nome = input("Qual o seu nome? ")
+comida_favorita = input("Qual a sua comida favorita? ")
+musica_favorita = input("Qual sua música favorita? ")
+cidade_mora = input("De que cidade você é? ")
+
+print()
+print()
+print("Você é")
+print(nome)
+print("Você provavelmente deve está com fome de..")
+print(comida_favorita)
+print("E você definitivamente deve está ouvindo..")
+print(musica_favorita)
+print("Que legal! Então que dizer que você mora em")
+print(cidade_mora)
