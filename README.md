@@ -37,3 +37,7 @@ Hoje enfrentamos um desafio: criar um gerador de mensagens positivas usando cond
 ## Dia 9: Conversão de Tipos (Casting)
 
 Hoje aprendemos sobre casting: ao receber dados, o ```input()``` trata tudo como string, mas podemos convertê-los para ```int()``` ou ```float()``` usando comandos antes do input. Essa habilidade permite lidar melhor com diferentes tipos de dados, tornando o programa mais versátil.
+
+## Dia 10: Um Pouco de Matemática
+
+Hoje aprendemos os operadores básicos para realizar cálculos em Python: ```+```, ```-```, ```*```, ```/```, ```**``` (exponenciação), ```%``` (módulo) e ```//``` (divisão inteira). Com essas operações, o código ganha poder para resolver problemas matemáticos de forma precisa.
